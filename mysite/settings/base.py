@@ -102,7 +102,7 @@ DATABASES = {
         'NAME': 'dblearn',
         'USER': 'learnuser',
         'PASSWORD': '2020',
-        'HOST': '127.0.0.1',
+        'HOST': '',
         'PORT': '5432',
     }
 }
